@@ -1,0 +1,1 @@
+This repository is used to store [Project Euler](https://projecteuler.net/ "Project Euler's Website") solutions.
