@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1458649618 source:g:\project euler\7 problem\7 problem\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
